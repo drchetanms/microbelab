@@ -4,7 +4,7 @@ layout: default
 
 ### GLOBAL HEALTH LAB : AMR
 
----
+![Bacteria](https://rebelem.com/wp-content/uploads/2015/02/bacteria-banner.jpg)
 
 > Current Projects
 
