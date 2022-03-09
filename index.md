@@ -2,7 +2,8 @@
 layout: default
 ---
 
-### GLOBAL HEALTH LAB
+### GLOBAL HEALTH LAB : AMR
+
 
 > Current Projects
 
@@ -12,12 +13,29 @@ A Systematic Review and Meta-analysis
 
 We are determining the burden of antibiotic-resistant infections in a North-eastern and Eastern Region of India
 
-[Link to PROSPERO](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42021278961).
+Find our research protocol here.[Link to PROSPERO](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42021278961).
 
 ## MicrobeFind
 
-A web-based application to combat anti-microbial resistance by using Computer vision to determine resistant strains of bacteria.
+A web-based application to combat anti-microbial resistance using Computer vision to determine resistant strains of bacteria.
 
+> Our Team
+
+#### Principal Investigator
+
+Dr. Sangeeta Das Bhattacharya
+
+## PhD Scholar
+
+Ms. Simran Malik
+
+## Graduate Scholar
+
+Dr. Chetan Shirvankar
+
+## Graduate Scholar
+
+Dr. Rahul Kurian Jacob
 
 There should be whitespace between paragraphs.
 
