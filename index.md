@@ -2,9 +2,20 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Current Projects
 
-[Link to another page](./another-page.html).
+##  Landscape Mapping of Antimicrobial Resistance in East and North-East India 
+
+> A Systematic Review and Metanalysis
+
+We are determining the burden of antibiotic-resistant infections in a North-eastern and Eastern Region of India
+
+[Link to PROSPERO](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42021278961).
+
+> MIcrobeFind
+
+A web-based application to combat antimicrobial resistance by using Computer vision to determine resistant strains
+
 
 There should be whitespace between paragraphs.
 
