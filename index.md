@@ -4,6 +4,7 @@ layout: default
 
 ### GLOBAL HEALTH LAB : AMR
 
+---
 
 > Current Projects
 
@@ -25,15 +26,15 @@ A web-based application to combat anti-microbial resistance using Computer visio
 
 Dr. Sangeeta Das Bhattacharya
 
-## PhD Scholar
+#### PhD Scholar
 
 Ms. Simran Malik
 
-## Graduate Scholar
+#### Graduate Scholar
 
 Dr. Chetan Shirvankar
 
-## Graduate Scholar
+#### Graduate Scholar
 
 Dr. Rahul Kurian Jacob
 
