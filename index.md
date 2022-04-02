@@ -17,7 +17,12 @@ Find our research protocol here. [Link to PROSPERO](https://www.crd.york.ac.uk/p
 ## MicrobeFind
 
 A web-based application to combat anti-microbial resistance using Computer vision to determine resistant strains of bacteria.
-[Find out more](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42021278961)
+[Find out more](http://microbelab.in/result.html)
+
+## AMR dashboard
+
+An online dashboard updated in realtime to track bacterial resistance in India.
+[Find out more](http://microbelab.in/datadash.html)
 
 ## Our Team
 
